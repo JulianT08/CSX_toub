@@ -61,10 +61,6 @@ def main():
 
 
 
-
-
-    
-
     choose_function(matrix1, matrix2)
     
 
